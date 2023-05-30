@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty_string" >Weather App</string>
+    <string name="temperature_placeholder">_ _</string>
+    <string name="degree_symbol"> \u00B0C</string>
+
+</resources>
